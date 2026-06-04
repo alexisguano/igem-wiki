@@ -1,0 +1,17 @@
+igem-wiki/
+│
+├── docs/
+│   ├── index.md
+│   ├── project.md
+│   ├── engineering.md
+│   ├── experiments.md
+│   ├── human_practices.md
+│   ├── safety.md
+│   ├── team.md
+│   └── attributions.md
+│
+├── images/
+│
+├── css/
+│
+└── references/
